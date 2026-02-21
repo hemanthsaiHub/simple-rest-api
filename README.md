@@ -15,6 +15,4 @@ A simple REST API built using FastAPI and SQLite.
 - SQLite
 
 ## Run Locally
-```bash
-pip install -r requirements.txt
-uvicorn main:app --reload
+https://simple-rest-api-oxd5.onrender.com
