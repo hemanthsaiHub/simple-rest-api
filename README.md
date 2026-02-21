@@ -15,4 +15,4 @@ A simple REST API built using FastAPI and SQLite.
 - SQLite
 
 ## Live Demo
-https://simple-rest-api-oxd5.onrender.com
+https://simple-rest-api-oxd5.onrender.com/docs
