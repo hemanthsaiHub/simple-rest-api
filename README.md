@@ -14,5 +14,5 @@ A simple REST API built using FastAPI and SQLite.
 - SQLAlchemy
 - SQLite
 
-## Run Locally
+## Live Demo
 https://simple-rest-api-oxd5.onrender.com
